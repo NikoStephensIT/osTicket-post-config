@@ -47,7 +47,7 @@ To set up our team through the Admin Panel, we will go to Agents --> Teams. We s
 <p>
   <img src="https://i.imgur.com/B6N5P2X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Now that we have swet up a new team we will create a new setting that will allow anyone to create tickets. This can be done through Admin Panel -->Settings -->User Settings.
+Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. This can be done through Admin Panel -->Settings -->User Settings. Under Administration Settings, we will uncheck the box titled "Registration Required: Require registration and login to create tickets ".
 </p>
 <p>
 <img src="https://i.imgur.com/oy7Qb6T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
