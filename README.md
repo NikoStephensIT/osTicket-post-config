@@ -30,7 +30,7 @@ With osTicket installed, it's time for us to get to begin configuring roles. Let
 <img src="https://i.imgur.com/O66QGZd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Depending on their assigned role within the helpdesk, agents will be assigned to specific departments. For our Supreme Admin, we will need to create a "System Administrators" department, where we will place the Supreme Admin. Service Level Agreements, managers, and email settings can be added and edited in the departments tab
+Depending on their assigned role within the helpdesk, agents will be assigned to specific departments. For our Supreme Admin, we will need to create a "System Administrators" department, where we will place the Supreme Admin. Service Level Agreements, managers, and email settings can be added and edited in the departments tab.
 </p>
 <br />
 
@@ -50,7 +50,10 @@ To set up our team through the Admin Panel, we will go to Agents --> Teams. We s
 Now that we have swet up a new team we will create a new setting that will allow anyone to create tickets. This can be done through Admin Panel -->Settings -->User Settings.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/oy7Qb6T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will need a group of agents to respond to these tickets! Go ahead and add Jane and Josh through Agents -->Add New.
 </p>
 <br />
 
@@ -58,7 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <img src="https://i.imgur.com/aUEI9Vo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we will configure our users. Users are our typically employees of our client, calling into our call center with an issue they expect us to help solve. For this we will need to go to the Agent Panel -->Users -->Add New. Here we will add Karen and Ken as users.
 </p>
 <br />
 
@@ -66,7 +69,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As we getting all of our agents and users squared away, it is now time for up to configure our SLA. SLA, or Service Level Agreements, provide a length of time in which the help desk Administrator expects the tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan.”
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BxmLFXA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+
+</p>
