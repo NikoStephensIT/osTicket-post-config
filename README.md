@@ -58,21 +58,18 @@ Next, we will need a group of agents to respond to these tickets! Go ahead and a
 <br />
 
 <p>
-  <img src="https://i.imgur.com/aUEI9Vo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Now we will configure our users. Users are our typically employees of our client, calling into our call center with an issue they expect us to help solve. For this we will need to go to the Agent Panel -->Users -->Add New. Here we will add Karen and Ken as users.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 As we getting all of our agents and users squared away, it is now time for up to configure our SLA. SLA, or Service Level Agreements, provide a length of time in which the help desk Administrator expects the tickets to be closed. SLA Plans can be created by going to the Admin Panel > Manage > SLA Plans. Click on the top right of the table to “Add New SLA Plan.”
 </p>
 <br />
 <img src="https://i.imgur.com/BxmLFXA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-
+Lastly, we will be configuring our help topics. This can be done through the Admin Panel -->Manage -->Help Topics. Here we will be adding Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset topics for selection by the users. 
 </p>
+<img src="https://i.imgur.com/Ghye1Ab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+With that you have completed the post-installation setup of osTicket.
